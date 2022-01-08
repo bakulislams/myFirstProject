@@ -3,3 +3,4 @@
 3.korim
 4.Rabbi
 5.abcd
+6.Man
